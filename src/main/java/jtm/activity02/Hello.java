@@ -6,7 +6,3 @@ public class Hello {
     }
 }
 
-
-
-//    git init
-//    git remote add origin https://github.com/[JUSU_GIT_KONTA_NOSAUKUMS]/bootcamp.git
